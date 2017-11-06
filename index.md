@@ -2,6 +2,6 @@
 
 App Inventor/Thunkable
 
-### Markdown
+### Extensions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes convention
+1.
